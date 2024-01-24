@@ -26,7 +26,7 @@ Veselin is a Python developer with a passion for learning new stuff and improvin
 
 <a href="http://www.github.com/vesselindoychev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vesselindoychev&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/vesselindoychev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/vesselindoychev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> ->>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
