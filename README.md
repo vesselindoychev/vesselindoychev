@@ -3,8 +3,11 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Python Web Developer
 --------------------
+Veselin is a Python developer with a passion for learning new stuff and improving current skills in programming.
 
 * 🧠  I'm learning everything about Python
+* 😄  Pronouns: he/him
+* ⚡  Fun fact: Big fan of World of Warcraft: Wrath of the Lich King
 
 ### Skills
 
@@ -39,6 +42,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
