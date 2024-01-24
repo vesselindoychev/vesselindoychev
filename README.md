@@ -22,10 +22,9 @@ Python Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vesselindoychev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vesselindoychev&stroke=0f172a&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=0f172a&currStreakLabel=14b8a6&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/vesselindoychev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vesselindoychev&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/vesselindoychev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&langs_count=10&title_color=14b8a6&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/vesselindoychev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!-- ### Hi there 👋 -->
 
