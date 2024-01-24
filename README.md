@@ -9,7 +9,7 @@ Veselin is a Python developer with a passion for learning new stuff and improvin
 * 😄  Pronouns: he/him
 * ⚡  Fun fact: Big fan of World of Warcraft: Wrath of the Lich King
 
-### Skills
+# 💻 Tech Stack:
 
 
 <p align="left">
@@ -17,17 +17,24 @@ Veselin is a Python developer with a passion for learning new stuff and improvin
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/vesselindoychev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img style="background:black" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" background='black' width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/veselin-doychev-626568275/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veselin-doychev-626568275/) 
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
 
 <a href="http://www.github.com/vesselindoychev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vesselindoychev&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/vesselindoychev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vesselindoychev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=vesselindoychev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ### Hi there 👋 -->
 
